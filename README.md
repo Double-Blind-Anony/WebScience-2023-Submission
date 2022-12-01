@@ -9,4 +9,4 @@ Repository for our paper "What Makes Some Workplaces More Favorable to Remote Wo
 
 * `Statistical_Methods_Experiments.ipynb` contains the experiments for the statistical methods (SVM, LR, XgBoost). 
 
-* `Neural_Network_Experiment.ipynb` contains the experiment for the Neural Network based method.
+* `neural_network_exp.py` contains the experiment for the Neural Network based method.
